@@ -45,18 +45,18 @@ class App extends Component {
         <Container>
           <Row>
             <Col className="text-center">
-              <Button className="drawBtn" color="danger" onClick={this.handleButtonClick}><span>{this.state.button}</span></Button>
+              {/* <Button className="drawBtn" color="danger" onClick={this.handleButtonClick}><span>{this.state.button}</span></Button> */}
             </Col>
           </Row>
           <Row>
-            <Col md="4">
+            <Col lg="offset-2">
               <img
                 src={(this.state.image)}
                 alt={(this.state.selectedCard.name_short)}
                 style={styles.image}
                 onClick={this.handleButtonClick} />
             </Col>
-            <Col md="8">
+            <Col>
               <Wrapper>
                 <Card
                   key={this.state.selectedCard.name_short}

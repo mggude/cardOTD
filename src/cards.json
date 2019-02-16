@@ -142,7 +142,7 @@
         "desc": "Another meaning is that you are going to go through a major change, transition, or transformation. The old version of you needs to ‘die’ to allow the new you to be created. This can be a scary time for you because you may be unsure of what will happen in the future. Even if you are scared, you should welcome the change because you are opening the door to new life events. Death can also mean that you need to let go of any unhealthy attachments that you have in your life. This is an important part of life, so learning to keep moving forward is one of the lessons Death teaches us."
     },
     {
-        "image": "terperance.png",
+        "image": "temperance.png",
         "name": "Temperance",
         "name_short": "ar14",
         "value": "14",
@@ -208,8 +208,8 @@
         "desc": "The Sun card represents success, abundance, and radiance. Like the sun itself, it gives strength and vitality to all those that are lucky enough to feel its rays. There is much joy and happiness that is coming to you. Because of your own personal fulfillment, you provide others with inspiration and joy as well. People are drawn to you because they are capable of seeing the warm and beautiful energy which you bring into their lives. You are also in a position in which you are capable of sharing your qualities as well as achievements with other people. You radiate love and affection towards those you care about the most. The card shows that you have a significant sense of deserved confidence right now. Life is currently particularly good, and the sun is shining your way as you reach the goals that you set. The Sun is one of the cards in the tarot which provide nothing but good feelings and fulfillment. "
     },
     {
-        "image": "lastjudgement.png",
-        "name": "The Last Judgement",
+        "image": "judgment.png",
+        "name": "Judgement",
         "name_short": "ar20",
         "value": "20",
         "value_int": 20,
@@ -553,7 +553,7 @@
         "desc": "Getting the upright side of this card shows that you are dissatisfied with your life and need to experience a higher purpose in life. You may have been exploring your options, flitting about from one choice to another, tasting the wine in each cup, as a means to sort out what it is that you really want with your life. You are now experiencing a feeling of exhaustion - and are coming to a realization that you must step away from what is familiar. It is a choice, and a recognition that true happiness will not be found in what you have already created."
     },
     {
-        "image": "nicecups.png",
+        "image": "ninecups.png",
         "value": "nine",
         "value_int": 9,
         "name": "Nine of Cups",
@@ -750,152 +750,165 @@
         "name": "Page of Swords",
         "name_short": "swpa",
         "suit": "swords",
-        "meaning_up": ": Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging. ",
+        "meaning_up": "Bright and alert, the Page of Swords is someone who never seems to run out of ideas. She is curious, always asking questions, and gifted with a sharp tongue and quick wit to match. Her aptitude for language also makes her an incredible communicator, and with her love of ideas, you may find her always engaged in some passionate debate.",
         "meaning_rev": ": More evil side of these qualities; what is unforeseen, unprepared state; sickness is also intimated.",
         "type": "minor",
-        "desc": "A lithe, active figure holds a sword upright in both hands, while in the act of swift walking. He is passing over rugged land, and about his way the clouds are collocated wildly. He is alert and lithe, looking this way and that, as if an expected enemy might appear at any moment. "
+        "desc": "This card may indicate that you are very eager to execute an idea that you have been having or a project that you cooked up just recently. You are quite passionate about it, and you cannot wait to share the progress with others. Compared to your passionate heart, time seems to be standing still. It is time to be talkative. When a Page of Swords appears in a reading, it signifies communication and sharing of ideas. Whether it is someone else’s ideas or yours, it is time to open up and talk about them as long as it is a constructive."
     },
     {
+        "image": "knightswords.png",
         "value": "knight",
         "value_int": 12,
         "name": "Knight of Swords",
         "name_short": "swkn",
         "suit": "swords",
-        "meaning_up": ": Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality. ",
+        "meaning_up": "When we are thoroughly obsessed by a certain idea and strongly wish to manifest it, we are oftentimes so blinded by the actual desire for its fulfillment that we fail to note the difficulties which we may come across, or the actions and consequences that it could bring. The Knight of Swords is a very powerful figure that is full of life as well as energy. This needs to be balanced with a proper and actual realization of compassion and responsibility.",
         "meaning_rev": ": Imprudence, incapacity, extravagance.",
         "type": "minor",
-        "desc": "He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart. "
+        "desc": "Once the knight sets forth towards his goals, there is absolutely no stopping him. He doesn’t see - and he doesn’t care - about any upcoming challenges. He is filled with sheer ambition, strength and determination to succeed with his quest no matter what. However, this determination could also blind him to see the potential consequences of his actions on others as he makes his way to success. He may charge forth into a very dangerous territory without preparation or actual foresight, and this could lead him to great danger."
     },
     {
+        "image": "queenswords.png",
         "value": "queen",
         "value_int": 13,
         "name": "Queen of Swords",
         "name_short": "swqu",
         "suit": "swords",
-        "meaning_up": ": Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation. ",
+        "meaning_up": "The Queen of Swords is an archetype of an older, wiser feminine intellect. She could be thought of as the most masculine of the all the queens, and may come off as quite stern and emotionless. This card represents the importance of making judgments without relying on emotion alone. The Queen of Swords beckons you to look at all the facts before making a decision. This queen does have compassion, which is why she has her hand reaching outwards in offering, but she wants to connect to people using an understanding that is intellectual.",
         "meaning_rev": ": Malice, bigotry, artifice, prudery, bale, deceit.",
         "type": "minor",
-        "desc": "Her right hand raises the weapon vertically and the hilt rests on an arm of her royal chair the left hand is extended, the arm raised her countenance is severe but chastened; it suggests familiarity with sorrow. It does not represent mercy, and, her sword notwithstanding, she is scarcely a symbol of power. "
+        "desc": "This card also means that you will need to become independent with your judgments. You must rely on the unbiased intelligence, which has you researching alternative viewpoints and thinking carefully on your decision. Compassion and empathy in these cases can distract you from your task, so you need you are trying to keep a strong objective view while avoiding getting emotions involved. The Queen of Swords can also be about the way that we speak with others. This queen has the ability to tell people the way it is. This allows her to get her point across, so there is no confusion about what is being said. Above all, truth is important to her, so she feels no need to soften her comments, thoughts, or opinions. She also expects the same frankness from other people, so this means that you need to be clear with everything that is being said, even if it may hurt."
     },
     {
+        "image": "kingswords.png",
         "value": "king",
         "value_int": 14,
         "name": "King of Swords",
         "name_short": "swki",
         "suit": "swords",
-        "meaning_up": ": Whatsoever arises out of the idea of judgement and all its connexions-power, command, authority, militant intelligence, law, offices of the crown, and so forth. ",
+        "meaning_up": "The King of Swords appearing in a reading suggests that you should remain objective in your current situation - you must establish truth by sticking to the facts. The King of Swords and his intellectual power implies that you will need to use your intellect to make your point known and attain your goals. Besides your experience and education, you should be sharp and observant, to see deeply into problems that come your way.",
         "meaning_rev": ": Cruelty, perversity, barbarity, perfidy, evil intention.",
         "type": "minor",
-        "desc": "He sits in judgement, holding the unsheathed sign of his suit. He recalls, of course, the conventional Symbol of justice in the Trumps Major, and he may represent this virtue, but he is rather the power of life and death, in virtue of his office. "
+        "desc": "The King of Swords meaning also shows that you need to be stern in your role while ensuring that you have clarity of mind at all times. When judging a situation, you need to consider all the possible consequences to make an appropriate judgment. You will need to leave your emotions out of the judgment so as to maintain rational thinking at all times. The King of Swords meaning suggests that you should take time to reason with others and be candid with the observations that you have made. As far as your personal life goes, the King of Swords urges you to use your intellect and logic to maneuver the path that lies ahead. You will need to confront the issue at hand and make a sober decision. The King of Swords implies that you should be able to look at any situation and make a decision with complete impartiality. He can also be an indicator of the high ethical standards that the King of Swords demonstrates."
     },
     {
+        "image": "aceswords.png",
         "value": "ace",
         "value_int": 1,
         "name": "Ace of Swords",
         "name_short": "swac",
         "suit": "swords",
-        "meaning_up": ": Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling. ",
+        "meaning_up": "As with all the aces, the Ace of Swords indicates that one is about to experience a moment of breakthrough. With its sharp blade and representing the power of the intellect, this sword has the ability to cut through deception and find truth. In layman's terms, this card represents that moment in which one can see the world from a new point of view, as a place that is filled with nothing but new possibilities. It is, therefore, the best time to work on your goals - as the aces all give green lights, and are signals of waiting opportunities and new beginnings.",
         "meaning_rev": ": The same, but the results are disastrous; another account says--conception, childbirth, augmentation, multiplicity.",
         "type": "minor",
-        "desc": "A hand issues from a cloud, grasping as word, the point of which is encircled by a crown. "
+        "desc": "It might also be a good time for you to seek justice and the truth in all matters since your conscience is clear, and your thoughts are swift. If you rise to the occasion, your sharpness and clarity in thought will be rewarded. When we look at the swords closely, and see its double-edge, we are also reminded that this sword may be either used for noble deeds or to deal destruction. It all depends on the wielder, and is a warning too that excessive power holds the danger to corrupt. If you stick with principles, the sword will serve you well."
     },
     {
+        "image": "twoswords.png",
         "value": "two",
         "value_int": 2,
         "name": "Two of Swords",
         "name_short": "sw02",
         "suit": "swords",
-        "meaning_up": ": Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs. ",
+        "meaning_up": "When we see the Two of Swords in a reading, we are encountering a stalemate. Two equal and opposing forces are joined in battle, and there seems to be no end in sight. This wasn't what you had in mind when you chanced to walk down this path, and you find yourself caught in the middle. Without something, or someone to intervene, this may continue indefinitely. We find ourselves in a situation where we must make a choice, we can side with one part of the situation, or we can side with the other. Neither seems particularly appealing, which makes the decision even more difficult. But unless we move past this stalemate, there can be no more progress.",
         "meaning_rev": ": Imposture, falsehood, duplicity, disloyalty.",
         "type": "minor",
-        "desc": "A hoodwinked female figure balances two swords upon her shoulders. "
+        "desc": "The Two of Swords is often related with balance and partnership. It signifies the need to keep your relationships balanced. Regardless if it is in business, friendship or romantic relationship, you may find yourself struggling to maintain the current state of affairs, and may find yourself caught in the middle.  In regards to your work, you may be currently stuck in limbo and are perhaps waiting on another party's decision. Remain patient and avoid pressuring people in making their decision abruptly. The Two of Swords meaning may depict a warning to have caution. Like the woman in the card, you may be choosing to keep the blindfold on, hoping the problem will just go away. You should avoid evading any issues that you are facing, since it will not solve your problems. "
     },
     {
+        "image": "threeswords.png",
         "value": "three",
         "value_int": 3,
         "name": "Three of Swords",
         "name_short": "sw03",
         "suit": "swords",
-        "meaning_up": ": Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration. ",
+        "meaning_up": "The Three of Swords depicts the message of rejection, betrayal, hurt and discouragement. In moments like these, we are well served by the mind. If you can think logically about it and prepare for the experience, the impact of this pain may be minimized. But remember too, that pain and grief are a normal part of life, because they make us appreciate what joy and happiness we have, as well as teaching us. It is through pain that we learn to be avoid mistakes that could lead us into danger and grief. It is therefore a necessity in the journey of life. The Three of Swords therefore is a depiction of suffering that is meant to make us stronger, more careful and more vigilant.",
         "meaning_rev": ": Mental alienation, error, loss, distraction, disorder, confusion.",
         "type": "minor",
-        "desc": "Three swords piercing a heart; cloud and rain behind. "
+        "desc": "Sometimes life gives us no choice - we are knocked down. But what determines one's future is the choice of whether to remain knocked down, or rise again. Each little piece of suffering you encounter serves as a stepping stone to find a deeper meaning in this world. This card comes at a time when you need to prepare yourself for this next stage in life. While the grief may be extremely hurtful, it enables you to forget your past and focus on your future knowing that you have control of what actions you take afterwards. Don’t dwell so much on what is troubling you but instead, focus on what is approaching, because you determine your fate."
     },
     {
+        "image": "fourswords.png",
         "value": "four",
         "value_int": 4,
         "name": "Four of Swords",
         "name_short": "sw04",
         "suit": "swords",
-        "meaning_up": ": Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design. ",
+        "meaning_up": "After the time of chaos, anger and pain depicted in the Three of Swords, the Four of Swords can signal that it is time to retreat. The Four of Swords is a moment of rest. Whether this is from a choice to withdraw, or whether it is from pure exhaustion, it is not clear. We are still tender from the wounds that were inflicted, and the battle weapons still hang above us as a grim reminder of what was lost. In order to continue and re-emerge in your daily life, you must take the time now to take a breather. There is always the faint fear that something more is bound to happen again and it is advisable that you take all chances to rest.",
         "meaning_rev": ": Wise administration, circumspection, economy, avarice, precaution, testament.",
         "type": "minor",
-        "desc": "The effigy of a knight in the attitude of prayer, at full length upon his tomb. "
+        "desc": "You need to gain strength and clarity in a quiet environment away from your current circumstances. It is time to re-evaluate, organize and understand your priorities. This helps to rejuvenate one’s spirit, and you come out stronger than before. The Four of Swords indicates it is time to gather new strength and prepare to face a new challenge. You have faced crisis after crisis, and it is wearing you out. You can face a new challenge only after getting away from everything and embracing a new atmosphere. Take the time to nurture yourself to re-enter life. Within us glimmers hope, and it lies quietly, waiting to reveal itself after we are healed anew."
     },
     {
+        "image": "fiveswords.png",
         "value": "five",
         "value_int": 5,
         "name": "Five of Swords",
         "name_short": "sw05",
         "suit": "swords",
-        "meaning_up": ": Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these. ",
+        "meaning_up": "This card indicates that you are engaging in a conflict of some nature. It can also suggest a disagreement with others, which leads to hostility and tension. Despite the fact that you think you’ve won, you might still lose in the big picture, because you have annoyed or hurt those that you have argued with, and as a result, you are on the road to isolating yourself. Perhaps, at the moment, you believed that it was more important to be right rather than appreciate and understand where the other side was coming from. Right now, it's important to attempt to pick up the pieces. You still have the chance to act while the conflict is still fresh. You may feel as if everyone and everything is against you. You might also lose some friends along the way. This is why you will need to make a significant decision about your point of view. What is more important to you? Mutual progress, or winning? This might require you to stand up to a conflict within yourself.",
         "meaning_rev": ": The same; burial and obsequies.",
         "type": "minor",
-        "desc": "A disdainful man looks after two retreating and dejected figures. Their swords lie upon the ground. He carries two others on his left shoulder, and a third sword is in his right hand, point to earth. He is the master in possession of the field. "
+        "desc": "The card represents ambition in a way which is rather negative. Too much ambition without actual regard to the consequences or the people that you affect is never something good. Misplaced ambition such as the one depicted by this card can leave you as a dejected loser or a callous winner – in both cases, the connotation is rather negative. This card instead asks us to be more considerate of those that we surround ourselves with, to let go of ego."
     },
     {
+        "image": "sixswords.png",
         "value": "six",
         "value_int": 6,
         "name": "Six of Swords",
         "name_short": "sw06",
         "suit": "swords",
-        "meaning_up": ": journey by water, route, way, envoy, commissionary, expedient. ",
+        "meaning_up": "The meaning of the Six of Swords is that you are experiencing a transition of some kind, but one that is not happy and filled with regret. This transition will most likely be the result of decisions you made in the past, and now they are forcing you to leave something behind in order to move forward. Despite your sadness, you need to remember that moving on is the ideal option for your future.",
         "meaning_rev": ": Declaration, confession, publicity; one account says that it is a proposal of love.",
         "type": "minor",
-        "desc": "A ferryman carrying passengers in his punt to the further shore. The course is smooth, and seeing that the freight is light, it may be noted that the work is not beyond his strength. "
+        "desc": "Life is filled with moments when you are going to be forced into letting go of things that you have become attached to. This will be challenging. The Six of Swords shows the sadness that you may be feeling, but you have to remember that the pain will not last, so you should look instead to the future for strength. In life, there will be times that the only way to fix a problem is to leave it and move to start anew. You may feel like this is the coward’s way out, but escape is the only approach that is left when you have tried all other methods. The important part is to plot your new course that will lead you to happiness. The Six of Swords in this case, is to plan using your logic, clarity, and objectivity about where you are now, where you have been and where you want to go. Intuition can help, but you need to think logically to ensure your success."
     },
     {
+        "image": "sevenswords.png",
         "value": "seven",
         "value_int": 7,
         "name": "Seven of Swords",
         "name_short": "sw07",
         "suit": "swords",
-        "meaning_up": ": Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other. ",
+        "meaning_up": "The Seven of Swords in general, is said to be about betrayal and deception. When you get this card, it may imply that you or someone else in your life is having difficulty getting away with something. There are instances when we are forced to be sneaky, hoping that we will not be discovered. When we are found out, we have to face the consequences - whether it's embarrassment, punishment, or worse. Sometimes this happens when there are instances when you had to think on your feet, and did something that was somewhat shrewd and out of character. Now there is a danger of the secret coming out.",
         "meaning_rev": ": Good advice, counsel, instruction, slander, babbling.",
         "type": "minor",
-        "desc": "A man in the act of carrying away five swords rapidly; the two others of the card remain stuck in the ground. A camp is close at hand. "
+        "desc": "You may be tempted to sneak away from somewhere, indicating a situation that is no longer working as expected. Instead of dealing with it, you choose to sneak away and hope that you will go unnoticed. Perhaps you were hoping that this issue would just resolve itself over time, and you've neglected it - leaving it to only grow and get worse. The big question, when looking at the Seven of Swords, is whether escaping will solve this problem that you are facing. While you might be thinking that you have gotten away, you discover that the situation has cornered you and you are found out as you are trying to escape. There are instances when the Seven of Swords may indicate the willingness to go solo. You may have the urge to explore and discover some things on your own. This can be an effective approach if you want to assert your independence and bypass group agreement. The Seven of Swords symbolism may be encouraging you to go on this path; sometimes innovation comes from a rogue genius."
     },
     {
+        "image": "eightswords.png",
         "value": "eight",
         "value_int": 8,
         "name": "Eight of Swords",
         "name_short": "sw08",
         "suit": "swords",
-        "meaning_up": ": Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness. ",
+        "meaning_up": "The general meaning in the Eight of Swords is that of a feeling of being trapped and victimized. You may feel powerless because, in your mind, you feel that changing the situation might be beyond you. This feeling of helplessness that you have, the feeling that you have no agency in your life, has played a major role in making your situation worse.",
         "meaning_rev": ": Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality.",
         "type": "minor",
-        "desc": "A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage. "
+        "desc": "Surrendering one’s power to an unknown entity, whether it's fate, or God, the government or something else means that you are giving away your own personal responsibility to affect change. You have willingly relinquished the driver's seat in the journey of your own life, and it isn't going well for you. It is advisable for you to avoid making an important decision at this time since your judgment is likely clouded. The good news is that because these traps are things that we create ourselves, we can also leave them if we put our minds to it. It is simply the matter of taking off the blindfold, and seeing beyond the limited perspective that we created for ourselves - to see the possibilities, and to recognize that you have your own internal power."
     },
     {
+        "image": "nineswords.png",
         "value": "nine",
         "value_int": 9,
         "name": "Nine of Swords",
         "name_short": "sw09",
         "suit": "swords",
-        "meaning_up": ": Death, failure, miscarriage, delay, deception, disappointment, despair. ",
+        "meaning_up": ":The Nine of Swords is often associated with fear and anxiety, about all the things that worry you and keep you up at night. Sometimes this card can be associated with trauma - one which may be shameful for you to confide with others about, and all the psychological responses that come from experiencing that trauma.",
         "meaning_rev": ": Imprisonment, suspicion, doubt, reasonable fear, shame.",
         "type": "minor",
-        "desc": "One seated on her couch in lamentation, with the swords over her. She is as one who knows no sorrow which is like unto hers. It is a card of utter desolation. "
+        "desc": "When we are never released from the entrapment depicted in the Eight of Swords, we escalate into the Nine of Swords, where we are plagued by nightmares. The suit of swords is one that is concerned with the mind, with logic, with intelligence, and with communication, but somehow the Nine of Swords was caught on the destructive end of the mind, the one which turns inward on itself, multiplies and festers. Questions are plaguing you, and you find yourself reciting all the possibilities - all the things that can happen to you. You are haunted by what could be. There is a sense of repetition within this card, that some event which has troubled you before, and one which you managed to either repress or run away from, is coming back again. Sharing your grief does at least provide an outlet for your pain and may release you from carrying this burden alone. Is there anyone that you can feel comfortable speaking to?"
     },
     {
+        "image": "tenswords.png",
         "value": "ten",
         "value_int": 10,
         "name": "Ten of Swords",
         "name_short": "sw10",
         "suit": "swords",
-        "meaning_up": ": Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death. ",
+        "meaning_up": "The Ten of Swords indicate a major disaster of some sort. It shows that a certain force of extreme magnitude has come to hit you in your life - one that you may have not foreseen. There is a sense of betrayal that is indicated here, for the character is stabbed in the back. This seems to be a reminder that despite how much we try, we cannot control everything - there are things that are beyond our ability to change. Here, this situation is unavoidable.",
         "meaning_rev": ": Advantage, profit, success, favour, but none of these are permanent; also power and authority.",
         "type": "minor",
-        "desc": "A prostrate figure, pierced by all the swords belonging to the card. "
+        "desc": "The Ten of Swords depicts that situation where your mentality is ‘poor me’, you feel like there is nothing you can do. Pause and remember that as with the death card, the end of something means a new beginning. Let go of what you have lost, and focus on the new path forward because that is where your life is meant to go. A good example is a break-up with your partner - though it could be intensely painful, it could also be the beginning of a new sense of independence."
     }
 ]
