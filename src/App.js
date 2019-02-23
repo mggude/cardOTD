@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import { Button } from 'reactstrap';
 import Wrapper from "./components/Wrapper";
 import cards from "./cards.json";
+import { Animated } from "react-animated-css";
 
 const styles = {
   image: {
