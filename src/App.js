@@ -4,10 +4,9 @@ import { Container, Row, Col } from "reactstrap";
 import Jumbotron from './components/Jumbotron';
 import Card from './components/Card';
 import Footer from './components/Footer';
-import { Button } from 'reactstrap';
 import Wrapper from "./components/Wrapper";
 import cards from "./cards.json";
-import { Animated } from "react-animated-css";
+
 
 const styles = {
   image: {
@@ -42,35 +41,36 @@ class App extends Component {
   render() {
     return (
       <>
-        <Jumbotron />
-        <Container>
-          <Row>
-            <Col className="text-center">
-              {/* <Button className="drawBtn" color="danger" onClick={this.handleButtonClick}><span>{this.state.button}</span></Button> */}
-            </Col>
-          </Row>
-          <Row>
-            <Col lg="offset-2">
-              <img
-                src={(this.state.image)}
-                alt={(this.state.selectedCard.name_short)}
-                style={styles.image}
-                onClick={this.handleButtonClick} />
-            </Col>
-            <Col>
-              <Wrapper>
-                <Card
-                  key={this.state.selectedCard.name_short}
-                  id={this.state.selectedCard.name_short}
-                  name={this.state.selectedCard.name}
-                  meaning={this.state.selectedCard.meaning_up}
-                  desc={this.state.selectedCard.desc}
-                />
-              </Wrapper>
-            </Col>
-          </Row>
-        </Container>
-        <Footer />
+        
+          <Jumbotron />
+          <Container>
+            <Row>
+              <Col className="text-center">
+                {/* <Button className="drawBtn" color="danger" onClick={this.handleButtonClick}><span>{this.state.button}</span></Button> */}
+              </Col>
+            </Row>
+            <Row>
+              <Col lg="offset-2">
+                <img
+                  src={(this.state.image)}
+                  alt={(this.state.selectedCard.name_short)}
+                  style={styles.image}
+                  onClick={this.handleButtonClick} />
+              </Col>
+              <Col>
+                <Wrapper>
+                  <Card
+                    key={this.state.selectedCard.name_short}
+                    id={this.state.selectedCard.name_short}
+                    name={this.state.selectedCard.name}
+                    meaning={this.state.selectedCard.meaning_up}
+                    desc={this.state.selectedCard.desc}
+                  />
+                </Wrapper>
+              </Col>
+            </Row>
+          </Container>
+          <Footer />
       </>
     );
   }
